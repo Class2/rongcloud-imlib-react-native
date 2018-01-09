@@ -1,0 +1,122 @@
+[
+    {
+        "outputFile": "/Users/lgp/Desktop/0602android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/lgp/Desktop/0602android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lgp/Desktop/0622android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/lgp/Desktop/0622android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/xieyusheng/Desktop/zhongyuan/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/xieyusheng/Desktop/zhongyuan/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/lgp/Desktop/0629android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/lgp/Desktop/0629android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/xunan/Documents/Project/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/xunan/Documents/Project/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    }
+]

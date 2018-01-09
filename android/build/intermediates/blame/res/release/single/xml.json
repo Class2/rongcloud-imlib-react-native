@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/lgp/Desktop/0629android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/lgp/Desktop/0629android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/xunan/Documents/Project/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/xunan/Documents/Project/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/lgp/Desktop/0622android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/lgp/Desktop/0622android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/lgp/Desktop/0602android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/lgp/Desktop/0602android/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/xieyusheng/Desktop/zhongyuan/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/xieyusheng/Desktop/zhongyuan/YCInhouseAppAndroid/node_modules/rongcloud-imlib-react-native/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.36.0/res/xml/preferences.xml"
+    }
+]
